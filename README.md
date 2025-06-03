@@ -9,7 +9,7 @@
 </p>
 ---
 
-## ⭐ Fork the Repository
+## ⭐ FORK THE REPOSITORY
 
 Click the button below to fork the repository and get your own copy:
 
@@ -28,4 +28,5 @@ Click the button below to fork the repository and get your own copy:
 
 ---
 ## 👑 AUTHOR
+
 ![MADE BY 👑LORD_OBITO-DEV👑](https://img.shields.io/badge/MADE%20BY-👑LORD_OBITO%20DEV👑-blueviolet?style=for-the-badge&logo=markdown)
