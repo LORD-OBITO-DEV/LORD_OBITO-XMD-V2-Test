@@ -27,5 +27,5 @@ Click the button below to fork the repository and get your own copy:
 [![GitHub - 👑LORD_OBITO-DEV👑](https://img.shields.io/badge/GitHub-👑LORD--OBITO--DEV👑-181717?style=for-the-badge&logo=github)](https://github.com/LORD-OBITO-DEV)
 
 ---
-
+## 👑 AUTHOR
 ![MADE BY 👑LORD_OBITO-DEV👑](https://img.shields.io/badge/MADE%20BY-👑LORD_OBITO%20DEV👑-blueviolet?style=for-the-badge&logo=markdown)
