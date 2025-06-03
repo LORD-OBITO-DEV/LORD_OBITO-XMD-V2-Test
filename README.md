@@ -23,7 +23,7 @@ Click the button below to fork the repository and get your own copy:
 
 ---
 
-## ❤️ Credits
+## ❤️ CREDITS
 [![GitHub - 👑LORD_OBITO-DEV👑](https://img.shields.io/badge/GitHub-👑LORD--OBITO--DEV👑-181717?style=for-the-badge&logo=github)](https://github.com/LORD-OBITO-DEV)
 
 ---
