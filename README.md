@@ -25,7 +25,7 @@ Click the button below to fork the repository and get your own copy:
 
 ## ☏︎ CONTACT ME 
 
-[![LORD_OBITO DEV](https://img.shields.io/badge/CONTACT%20ME-WHATSAPP%20NUMBER-25D366?style=for-the-badge&logo=whatsapp)](+2250712668494)
+[![LORD_OBITO DEV](https://img.shields.io/badge/CONTACT%20ME-WHATSAPP%20NUMBER-25D366?style=for-the-badge&logo=whatsapp)](https://Wa.me/2250712668494)
 
 ---
 
