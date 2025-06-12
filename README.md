@@ -19,7 +19,7 @@ Click the button below to fork the repository and get your own copy:
 
 ## ❦︎ YOUTUBE CHANNEL
 
-Subscribe to the channel for the video tutorial, it will be available on the home page 
+Subscribe to the channel for the video tutorial, it is available on the homepage
 
 [![SUBSCRIBER MY-YOUTUBE CHANNEL](https://img.shields.io/badge/SUBSCRIB%20TO%20MY-YOUTUBE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@lord_obito_tech?si=v90gMETYN5x1CdUL)
 
