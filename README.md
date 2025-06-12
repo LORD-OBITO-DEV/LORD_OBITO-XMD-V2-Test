@@ -33,7 +33,7 @@ Subscribe to the channel for the video tutorial, it will be available on the hom
 
 ## ☏︎ CONTACT ME 
 
-[![LORD_OBITO DEV](https://img.shields.io/badge/CONTACT%20ME-WHATSAPP%20NUMBER-25D366?style=for-the-badge&logo=whatsapp)]([https://Wa.me/2250712668494](https://wa.me/2250712668494?text=HI👋))
+[![CONTACT ME-WHATSAPP NUMBER](https://img.shields.io/badge/CONTACT%20ME-WHATSAPP%20NUMBER-25D366?style=for-the-badge&logo=whatsapp)](https://Wa.me/2250712668494)
 
 ---
 
