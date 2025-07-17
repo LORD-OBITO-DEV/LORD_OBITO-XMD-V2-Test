@@ -4,7 +4,7 @@ import fs from 'fs-extra';
 const sudoFile = './lib/sudo.json';
 
 export default {
-  name: 'sudo',
+  name: 'sudoadd',
   category: 'Sudo',
   execute: async (sock, msg, args) => {
     const sender = (msg.key.participant || msg.key.remoteJid).split('@')[0];
