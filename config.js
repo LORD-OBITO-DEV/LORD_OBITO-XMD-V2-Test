@@ -1,6 +1,6 @@
 export default {
 MODE: 'private', // public or private
-SESSION_ID: process.env.SESSION_ID || 'LORD~OBITO~zU0UgYYJ#KdmqwzOFpfH73Ba2P0oGWBBGsDg-i7v6KR9zT2oxtC4',
+SESSION_ID: process.env.SESSION_ID || 'PLEASE PASTE YOUR SESSION ID HERE LORD~OBITO~',
 OWNER_NUMBER: '2250712668494',
 OWNER_NAME: '✞︎ 𝙇𝙊𝙍𝘿 𝙊𝘽𝙄𝙏𝙊 𝘿𝙀𝙑 ✞',
 CHANNEL_URL: 'https://whatsapp.com/channel/0029Vb65HSyHwXbEQbQjQV26',
