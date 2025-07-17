@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1000&height=200&lines=LORD_OBITO+XMD+V2;VERSION+2.0.0;BY+LORD+OBITO+TECH" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=80&pause=1000&color=000000&center=true&vCenter=true&width=1000&height=200&lines=LORD+OBITO+XMD;VERSION+2.0.0;BY+LORD+OBITO+TECH" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,12 +16,17 @@ Click the button below to fork the repository and get your own copy:
 [![FORK REPO](https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github)](https://github.com/LORD-OBITO-DEV/LORD_OBITO-XMD-V2/fork)
 
 ---
+## ⚙️ GET YOUR SESSION ID
+
+[![SESSION GENERATOR](https://img.shields.io/badge/GET%20SESSION_ID-GENERATOR%20NOW-4CAF50?style=for-the-badge&logo=whatsapp)](https://lord-obito-tech-session-generator-bh0l.onrender.com)
+
+---
 
 ## ❦︎ YOUTUBE CHANNEL
 
 Subscribe to the channel for the video tutorial, it is available on the homepage
 
-[![SUBSCRIBER MY-YOUTUBE CHANNEL](https://img.shields.io/badge/SUBSCRIB%20TO%20MY-YOUTUBE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube)](https://youtube.com/@lord_obito_tech?si=v90gMETYN5x1CdUL)
+[![SUBSCRIBER MY-YOUTUBE CHANNEL](https://img.shields.io/badge/SUBSCRIB%20TO%20MY-YOUTUBE%20CHANNEL-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@LORD_OBITO_TECH)
 
 ---
 

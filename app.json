@@ -1,0 +1,14 @@
+{
+  "name": "LORD_OBITO-XMD-V2",
+  "description": "LORD_OBITO-XMD-V2 WhatsApp Bot",
+  "env": {
+    "SESSION_ID": {
+      "description": "MEGA session ID",
+      "required": true
+    },
+    "PORT": {
+      "description": "Express server port",
+      "required": false
+    }
+  }
+}
