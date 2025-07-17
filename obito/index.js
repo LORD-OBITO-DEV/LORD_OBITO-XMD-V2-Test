@@ -31,7 +31,7 @@ export default {
   mode: modeCmd,
   autoreact: autoreactCmd,
   welcome: welcomeCmd,
-  tagadmin: tagadminCmd,
-  bugmenu: bugmenuCmd,
+  tag-admin: tagadminCmd,
+  bug-menu: bugmenuCmd,
   goodbye: goodbyeCmd
 };

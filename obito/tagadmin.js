@@ -1,5 +1,5 @@
 export default {
-  name: 'tagadmin',
+  name: 'tag-admin',
   category: 'Group',
   execute: async (sock, msg) => {
     const jid = msg.key.remoteJid;
