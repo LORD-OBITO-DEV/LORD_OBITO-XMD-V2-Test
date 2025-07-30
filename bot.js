@@ -381,15 +381,21 @@ setInterval(() => {
   console.log("🧹 Nettoyage des abonnements expirés (hors whitelist)");
 }, 3600000);
 
+
+
 // Webhook Express
 const PORT = process.env.PORT || 3000;
-const HOST = process.env.RENDER_EXTERNAL_URL || config.WEBHOOK_URL;
-bot.setWebHook(`${HOST}/bot${config.BOT_TOKEN}`);
-app.post(`/bot${config.BOT_TOKEN}`, (req, res) => {
+const HOST = process.env.RENDER_EXTERNAL_URL || `https://lord-obito-xmd-v2-test.onrender.com`; // Remplace si besoin
+
+bot.setWebHook(`HOST/bot{config.BOT_TOKEN}`);
+
+app.post(`/botconfig.BOT_TOKEN`, (req, res) => 
   bot.processUpdate(req.body);
   res.sendStatus(200);
-});
+);
+
 app.get('/', (_, res) => res.send("✅ Bot actif."));
-app.listen(PORT, '0.0.0.0', () => {
-  console.log(`🚀 Bot webhook lancé sur port ${PORT}`);
+
+app.listen(PORT, () => 
+  console.log(`🚀 Bot webhook lancé sur port{PORT}`);
 });
