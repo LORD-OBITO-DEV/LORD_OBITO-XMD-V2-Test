@@ -1,27 +1,16 @@
 {
-  "name": "LORD_OBITO-XMD-V2",
+  "name": "telegram-paypal-bot",
   "version": "1.0.0",
-  "description": "WhatsApp Multi-Device Bot LORD_OBITO-XMD-V2",
-  "main": "index.js",
+  "description": "Bot Telegram premium avec webhook",
+  "main": "bot.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name LORD_OBITO-XMD-V2",
-    "stop": "pm2 stop LORD_OBITO-XMD-V2",
-    "restart": "pm2 restart LORD_OBITO-XMD-V2"
+    "start": "node bot.js"
   },
-  "keywords": ["lord_obito-xmd-v2", "whatsapp-bot", "whatsapp xmd bot"],
-  "author": "LORD OBITO DEV",
-  "license": "ISC",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.0",
-    "axios": "^1.6.8",
-    "chalk": "^5.3.0",
-    "dotenv": "^16.4.5",
-    "express": "^4.19.2",
-    "fs-extra": "^11.2.0",
-    "megajs": "^1.1.0",
-    "node-cache": "^5.1.2",
-    "pino": "^8.20.0",
-    "pm2": "^5.4.0"
+    "node-telegram-bot-api": "^0.61.0",
+    "express": "^4.18.2",
+    "better-sqlite3": "^8.0.1",
+    "dotenv": "^16.3.1"
   }
 }
