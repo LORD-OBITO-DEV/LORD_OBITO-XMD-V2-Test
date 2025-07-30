@@ -16,13 +16,6 @@ export function initDB() {
       whitelisted INTEGER DEFAULT 0
     );
 
-    -- Ajoute la colonne whitelisted si elle n'existe pas déjà
-    PRAGMA foreign_keys = OFF;
-    BEGIN TRANSACTION;
-    CREATE TABLE IF NOT EXISTS users_temp AS SELECT * FROM users;
-    ALTER TABLE users ADD COLUMN whitelisted INTEGER DEFAULT 0;
-    COMMIT;
-
     -- Table des preuves de paiement en attente  
     CREATE TABLE IF NOT EXISTS pending (  
       user_id INTEGER PRIMARY KEY,  
@@ -31,7 +24,7 @@ export function initDB() {
       requested_at TEXT  
     );  
 
-    -- Table des abonnements (utilisée dans /valider, /abonnes, etc.)  
+    -- Table des abonnements  
     CREATE TABLE IF NOT EXISTS subscribers (  
       user_id INTEGER PRIMARY KEY,  
       username TEXT,  
