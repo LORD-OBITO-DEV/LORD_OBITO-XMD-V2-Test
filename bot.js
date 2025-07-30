@@ -384,8 +384,9 @@ setInterval(() => {
 
 
 // Webhook Express
+
 const PORT = process.env.PORT || 3000;
-const HOST = process.env.RENDER_EXTERNAL_URL || `https://lord-obito-xmd-v2-test.onrender.com`; // Remplace si besoin
+const HOST = process.env.RENDER_EXTERNAL_URL || `https://lord-obito-xmd-v2-test.onrender.com`;
 
 bot.setWebHook(`HOST/bot{config.BOT_TOKEN}`);
 
